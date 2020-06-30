@@ -179,6 +179,9 @@
   aliases:
     - up
     - scroll up
+    - back to top
+    - top
+    - go to top
   sizes:
     - 32
 - name: calendar
@@ -190,6 +193,10 @@
     - time
     - month
     - year
+    - scheduler
+    - agenda
+    - docket
+    - timetable
   sizes:
     - 32
 - name: caret--down
@@ -203,6 +210,10 @@
     - close
     - expand
     - collapse
+    - caret
+    - down caret
+    - down arrow
+    - down triangle
 - name: caret--left
   friendly_name: Caret left
   sizes:
@@ -214,6 +225,10 @@
     - close
     - expand
     - collapse
+    - caret
+    - left caret
+    - left arrow
+    - left triangle
 - name: caret--right
   friendly_name: Caret right
   sizes:
@@ -225,6 +240,10 @@
     - close
     - expand
     - collapse
+    - caret
+    - right caret
+    - right arrow
+    - right triangle
 - name: caret--sort--down
   friendly_name: Caret sort down
   sizes:
@@ -235,6 +254,13 @@
     - close
     - expand
     - collapse
+    - caret sort down
+    - sort down
+    - caret down
+    - sort arrow down
+    - arrow down
+    - down arrow
+    - down triangle
 - name: caret--sort--up
   friendly_name: Caret sort up
   sizes:
@@ -245,6 +271,13 @@
     - close
     - expand
     - collapse
+    - caret sort up
+    - sort up
+    - caret up
+    - sort arrow up
+    - arrow up
+    - up arrow
+    - up triangle
 - name: caret--sort
   friendly_name: Caret sort
   sizes:
@@ -255,6 +288,10 @@
     - close
     - expand
     - collapse
+    - caret sort
+    - sort arrow
+    - arrow sort
+    - sort triangle
 - name: caret--up
   friendly_name: Caret up
   sizes:
@@ -266,6 +303,10 @@
     - close
     - expand
     - collapse
+    - caret up
+    - arrow up
+    - up arrow
+    - up triangle
 - name: chat
   friendly_name: Chat
   aliases:
